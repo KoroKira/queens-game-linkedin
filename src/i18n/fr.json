@@ -102,4 +102,10 @@
   "OR": "ou",
   "COPY_DETAILS": "Copier les informations",
   "DISCOVER_AND_BUILD_COMMUNITY_LEVELS": "Découvrez des niveaux uniques créés par la communauté ! Jouez, soyez inspirez et créez votre propre niveau avec le"
+  "NEW": "Nouveau",
+  "UNIQUE_SOLUTIONS": "Solutions uniques",
+  "MULTIPLE_SOLUTIONS": "Solutions multiples",
+  "COMPLETED": "Terminé",
+  "NOT_COMPLETED": "Non terminé",
+  "CLEAR_ALL": "Tout effacer"
 }
